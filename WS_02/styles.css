@@ -1,0 +1,15 @@
+p { color: blue; }
+body { background-color: lightgray; }
+h1 { font-size: 2em; }
+.content-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px 0;
+    background-color: #8a5757;
+}
+table {width: 80%; border-collapse: collapse;}
+th, td {border: 1px solid #65b8a4;padding: 8px;text-align:left;}
+th {background-color:darkkhaki}
+form {display: flex;flex-direction: column;gap :10px;}
+label {font-weight: bold;}
+input[type="text"], input[type="email"] {padding: 8px;border: 1px solid #ddd;border-radius: 4px;}
